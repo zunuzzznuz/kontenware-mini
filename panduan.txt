@@ -1,0 +1,4 @@
+ada beberapa opsi untuk menjalankan Kontenware mini v1.0
+1. langsung melalui python .\kontenware_mini.py
+2. build .exe manual dengan perintah python .\buat_exe.py
+3. jalankan file Kontenware-mini.exe
